@@ -78,6 +78,11 @@ def generate_html(entry_waiting_time_hours, entry_waiting_time_minutes, beacon_e
 
     with open("index.html", "w") as f:
         f.write(html_content)
+        
+    test_content = "hello world \n" + html_content
+    
+    with open("test.txt", "w") as f:
+        f.write(test_content)
 
 entry_waiting_time_hours, entry_waiting_time_minutes, entry_waiting_time_seconds, beacon_entering, active_validators = estimate_entry_waiting_time()
 exit_waiting_time_hours, exit_waiting_time_minutes, exit_waiting_time_seconds, beacon_exiting, active_validators = estimate_exit_waiting_time()
