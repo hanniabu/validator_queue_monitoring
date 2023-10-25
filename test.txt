@@ -33,6 +33,6 @@ hello world
     <p>Pending validators (entry queue): 196</p>
     <p>Estimated waiting time for exit queue: 0.0 hours and 0 minutes</p>
     <p>Pending validators (exit queue): 1</p>
-    <p>Active validators: 864114</p>
+    <p>Active validators: 864032</p>
 </body>
 </html>
