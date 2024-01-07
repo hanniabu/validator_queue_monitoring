@@ -29,10 +29,10 @@ hello world
 </head>
 <body>
     <h1>Ethereum 2.0 Validator Queue</h1>
-    <p>Estimated waiting time for new validators: 0.0 hours and 0 minutes</p>
-    <p>Pending validators (entry queue): 0</p>
-    <p>Estimated waiting time for exit queue: 87.0 hours and 22 minutes</p>
-    <p>Pending validators (exit queue): 10649</p>
-    <p>Active validators: 902284</p>
+    <p>Estimated waiting time for new validators: 2.0 hours and 39 minutes</p>
+    <p>Pending validators (entry queue): 323</p>
+    <p>Estimated waiting time for exit queue: 86.0 hours and 26 minutes</p>
+    <p>Pending validators (exit queue): 10536</p>
+    <p>Active validators: 902167</p>
 </body>
 </html>
