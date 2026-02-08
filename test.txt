@@ -32,7 +32,7 @@ hello world
     <p>Estimated waiting time for new validators: 383.0 hours and 15 minutes</p>
     <p>Pending validators (entry queue): 50302</p>
     <p>Estimated waiting time for exit queue: 0.0 hours and 0 minutes</p>
-    <p>Pending validators (exit queue): 2</p>
-    <p>Active validators: 968060</p>
+    <p>Pending validators (exit queue): 0</p>
+    <p>Active validators: 968059</p>
 </body>
 </html>
